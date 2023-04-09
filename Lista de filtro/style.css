@@ -1,0 +1,59 @@
+body{
+    background: black;
+    display: flex;
+    align-items: center;
+    height: 100hv;
+    font-family: sans-serif;
+    background: no-repeat center/cover url('https://cdn.wallpapersafari.com/84/22/Jz6bAs.gif');
+    
+}
+
+.container {
+    width: 300px;
+    margin: auto;   
+}
+
+
+input{
+    width: 90%;
+    border-radius: 8px;
+    padding: 8px 15px;
+    border: 1px solid white;
+    height: 40px;
+    
+}
+
+ul{
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    background: #fff;
+    border-radius: 8px;
+    border: #fff;
+    width: 100%;
+    padding: 8px 15px;
+    margin: 5px 0;
+}
+
+#btAdicionar{
+    width:30%;
+    border-radius: 8px;
+    padding: 8px 5px;
+}
+#btFiltrar{
+    width:30%;
+    border-radius: 8px;
+    padding: 8px 5px;
+}
+#btRemover{
+    width:30%;
+    border-radius: 8px;
+    padding: 8px 5px;
+}
+#Copy{
+    color:white;
+    margin: auto;
+    
+}
